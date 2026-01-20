@@ -26,7 +26,7 @@ This notebook operates on a simple principle: **If you can understand it, you ca
 
 I use a custom workflow (*Literally just gemini 3 and good old unix*) to pipe any data into the utility. Then gemini renders it through the power of ascii. 
 
-Here Gemini has prepared a little showcase of what it can do:
+Gemini has prepared a little showcase of what it can do:
 
 ### Exhibit A: The Knowledge Graph (Zettelkasten)
 
@@ -54,7 +54,7 @@ Here Gemini has prepared a little showcase of what it can do:
 
 ### Exhibit B: Mechanical Systems
 
-*Explaining the physical world without a single pixel.*
+*Explaining the physical world without a single pixel.* (*Hmmmmm*)
 
 ```text
     [INPUT] -> ascii "How does a turbocharger work?"
@@ -78,7 +78,7 @@ Here Gemini has prepared a little showcase of what it can do:
 *Debugging decision trees.*
 
 ```text
-[INPUT] -> ``` cat login-logic-flow.txt | ascii```
+[INPUT] -> ``` cat login-logic-flow.txt | ascii ```
   
     [START] --> User Enters Creds
                      |
